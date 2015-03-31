@@ -1,6 +1,6 @@
 <?php 
 class first{
 public function init(){
-return 2;
+return 3;
 }
 }
